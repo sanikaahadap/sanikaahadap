@@ -8,7 +8,7 @@
 ---
 
 🛠️ **Proficient with:**
-- Python | Pandas | NumPy | SciPy | Scikit-learn | PyTorch | NLTK | Matplotlib | C | C++ | Java | Firebase | TensorFlow | Keras
+- Python | HTML | CSS | JavaScript | React | React Native | Pandas | NumPy | SciPy | Scikit-learn | PyTorch | Matplotlib | C | C++ | Java | Firebase | TensorFlow | Keras
 
 ---
 
