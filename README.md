@@ -1,6 +1,8 @@
 ### Hi, I am Sanika
 🤖 Machine learning enthusiast diving into the realms of AI and deep learning.
+
 📊 Passionate about extracting insights from data as a data science explorer.
+
 🌌 Navigating the universe of algorithms, models, and neural networks.
 
 ---
