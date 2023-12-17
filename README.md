@@ -1,12 +1,13 @@
-### 🤖 Machine learning enthusiast diving into the realms of AI and deep learning.
+### Hi, I am Sanika
+🤖 Machine learning enthusiast diving into the realms of AI and deep learning.
 📊 Passionate about extracting insights from data as a data science explorer.
 🌌 Navigating the universe of algorithms, models, and neural networks.
 
 ---
 
 🛠️ **Proficient with:**
-- 🐍 Python | HTML | CSS | JavaScript | React | React Native
-- 🔧 C | C++ | Java | Firebase | TensorFlow | Keras
+-  Python | HTML | CSS | JavaScript | React | React Native
+-  C | C++ | Java | Firebase | TensorFlow | Keras
 
 ---
 
