@@ -8,8 +8,7 @@
 ---
 
 🛠️ **Proficient with:**
--  Python | HTML | CSS | JavaScript | React | React Native
--  C | C++ | Java | Firebase | TensorFlow | Keras
+- Python | Pandas | NumPy | SciPy | Scikit-learn | PyTorch | NLTK | Matplotlib | C | C++ | Java | Firebase | TensorFlow | Keras
 
 ---
 
