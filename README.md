@@ -20,3 +20,4 @@
 🌟 Let's turn ideas into reality through lines of code! ✨
 
 Feel free to reach out for projects, discussions, or just a friendly chat! 🚀✨
+Find me on [Linkedin](https://www.linkedin.com/in/sanika-hadap-243108234/)
