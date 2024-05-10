@@ -1,25 +1,20 @@
 ### Hi, I am Sanika
-🤖 Machine learning enthusiast diving into the realms of AI and deep learning.
+🤖 They say I'm diving into AI and deep learning, but honestly, I'm just splashing around in the kiddie pool of tech. Maybe one day I'll actually understand what I'm doing!
 
-📊 Passionate about extracting insights from data as a data science explorer.
+📊 So, apparently I'm passionate about extracting insights from data. Sounds impressive, right? Yeah, I have no idea what that really means, but it sounded cool.
 
-🌌 Navigating the universe of algorithms, models, and neural networks.
-
----
-
-🛠️ **Proficient with:**
-- Python | HTML | CSS | JavaScript | React | Pandas | NumPy | SciPy | Scikit-learn | PyTorch | Matplotlib | TensorFlow | Keras
+🌌 Navigating the universe of algorithms? More like stumbling through a dark alley with a flashlight made of Python syntax. But hey, I'm trying!
 
 ---
-
-🔍 Exploring more tech horizons, because learning never ends!
-📚 Always eager to collaborate on innovative projects and grow together.
-
+🛠️ **Wait, I know some stuff** 
+Python (kind of) | React (reacting to what, exactly?) | Pandas (not the cute, cuddly kind) | NumPy (sounds like a rapper's name) | Scikit-learn (still learning, emphasis on the "learn") | Matplotlib (I can draw some basic shapes) | TensorFlow (sounds intimidating) | Keras (not sure if it's a name or a brand of cereal)
 ---
 
-🌟 Let's turn ideas into reality through lines of code! ✨
+If you've got any tips or want to laugh at my coding struggles, hit me up! Maybe together we can stumble upon something cool!
+---
+
+🌟 Let's see how many errors we can generate together! ✨
+
+You can find me pretending to be a coder on [Linkedin](https://www.linkedin.com/in/sanika-hadap-243108234/)
 
 [![](https://visitcount.itsvg.in/api?id=sanikaahadap&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
-Feel free to reach out for projects, discussions, or just a friendly chat! 🚀✨
-Find me on [Linkedin](https://www.linkedin.com/in/sanika-hadap-243108234/)
