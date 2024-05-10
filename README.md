@@ -5,7 +5,7 @@
 
 
 🛠️ Wait, I know some stuff <br>
-Python (kind of) | React (reacting to what, exactly?) | Pandas (not the cute, cuddly kind) | NumPy (sounds like a rapper's name) | Scikit-learn (still learning, emphasis on the "learn") | Matplotlib (I can draw some basic shapes) | TensorFlow (sounds intimidating) | Keras (not sure if it's a name or a brand of cereal)
+Python (kind of)  |  React (reacting to what, exactly?)  |  Pandas (not the cute, cuddly kind)  |  NumPy (sounds like a rapper's name)  |  Scikit-learn (still learning, emphasis on the "learn")  |  Matplotlib (I can draw some basic shapes)  |  TensorFlow (sounds intimidating)  |  Keras (not sure if it's a name or a brand of cereal)
 
 
 If you've got any tips or want to laugh at my coding struggles, hit me up! Maybe together we can stumble upon something cool!
