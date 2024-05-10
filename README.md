@@ -19,5 +19,7 @@
 
 🌟 Let's turn ideas into reality through lines of code! ✨
 
+[![](https://visitcount.itsvg.in/api?id=sanikaahadap&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 Feel free to reach out for projects, discussions, or just a friendly chat! 🚀✨
 Find me on [Linkedin](https://www.linkedin.com/in/sanika-hadap-243108234/)
