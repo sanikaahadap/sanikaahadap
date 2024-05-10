@@ -1,8 +1,6 @@
 ### Hi, I am Sanika
 🤖 They say I'm diving into AI and deep learning, but honestly, I'm just splashing around in the kiddie pool of tech. Maybe one day I'll actually understand what I'm doing!
 
-📊 So, apparently I'm passionate about extracting insights from data. Sounds impressive, right? Yeah, I have no idea what that really means, but it sounded cool.
-
 🌌 Navigating the universe of algorithms? More like stumbling through a dark alley with a flashlight made of Python syntax. But hey, I'm trying!
 
 
