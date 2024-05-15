@@ -15,5 +15,3 @@ If you've got any tips or want to laugh at my coding struggles, hit me up! Maybe
 You can find me pretending to be a coder on [Linkedin](https://www.linkedin.com/in/sanika-hadap-243108234/)
 
 [![](https://visitcount.itsvg.in/api?id=sanikaahadap&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
-[![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=sanikaahadap)](https://github.com/anuraghazra/github-readme-stats)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sanikaahadap&show_icons=true&theme=radical)
