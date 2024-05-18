@@ -4,7 +4,7 @@
 🌌 Navigating the universe of algorithms? More like stumbling through a dark alley with a flashlight made of Python syntax. But hey, I'm trying!
 
 
-🛠️ Wait, I know some stuff <br>
+🛠️ I know some stuff <br>
 Python | React | Pandas | NumPy | Scikit-learn | Matplotlib | TensorFlow | Keras | Flutter | Firebase | HTML | CSS | JavaScript | Flask | Bootstrap
 
 If you've got any tips or want to laugh at my coding struggles, hit me up! Maybe together we can stumble upon something cool!
