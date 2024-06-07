@@ -5,7 +5,7 @@
 
 
 🛠️ I know some stuff <br>
-Python | React | Pandas | NumPy | Scikit-learn | Matplotlib | TensorFlow | Keras | Flutter | Firebase | HTML | CSS | JavaScript | Flask | Bootstrap
+Python | React | Pandas | NumPy | Scikit-learn | Matplotlib | TensorFlow | Keras | Flutter | Firebase | HTML | CSS | JavaScript | Flask | Bootstrap | OpenCV | AWS 
 
 If you've got any tips or want to laugh at my coding struggles, hit me up! Maybe together we can stumble upon something cool!
 
