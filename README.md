@@ -56,12 +56,7 @@
 
 ### Interests In Motion
 
-- Distributed Systems  
-- Applied NLP  
-- Developer Automation  
-- Cloud-first Design  
-- Data Engineering  
-- Scalable UI Flows  
+Distributed Systems, Applied NLP, Developer Automation, Cloud-first Design, Data Engineering, Scalable UI Flows  
 
 ---
 
